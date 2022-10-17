@@ -2,8 +2,8 @@
 Project for the subject "Software design"
 
 Title: Password vault
-<ul>
 The project was completed<br />
+<ul>
 Egor Smirnov<br />
 Lydia Miloserdova<br />
 Igor Leontyan<br />
