@@ -1,7 +1,8 @@
 # KPO
 Project for the subject "Software design"
 
-Title: **Password vault**
+Title: **Password vault**<br />
+
 The project was completed:<br />
 <ul>
 Egor Smirnov<br />
