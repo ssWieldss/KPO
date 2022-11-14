@@ -1,0 +1,138 @@
+.create_form {
+    position: absolute;
+    width: 940px;
+    height: 780px;
+    left: 490px;
+    top: 115px;
+
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+.create_form_header {
+    position: absolute;
+    width: 343px;
+    height: 26px;
+    left: 32%;
+    top: 25px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 55px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #2B2B2B;
+}
+.tools {
+    position: absolute;
+    width: 30px;
+    height: 32px;
+    left: 10%;
+    top: 103px;
+
+    background: #FFEDA9;
+    opacity: 0.5;
+    border-radius: 46px;
+    background-image: url('../img/tools.png');
+}
+
+.tools_words {
+    position: absolute;
+    width: 294px;
+    height: 19px;
+    left: 130%;
+    top: 10px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.div_tools_box {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 15%;
+    top: 150px;
+}
+.tools_box {
+     width: 30px;
+    height: 30px;
+    box-sizing: border-box;
+    position: absolute;
+    background: #FFFFFF;
+    border: 2.5px solid #F7A80A;
+    border-radius: 5px;
+}
+
+.words_tools_box {
+    position: absolute;
+    width: 352px;
+    height: 14px;
+    left: 46px;
+    margin-top: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 0px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+.generic_button {
+    position: absolute;
+    left: 15%;
+    right: 60%;
+    top: 45%;
+    bottom: 50%;
+
+    background: #F7A80A;
+    border-radius: 37px;
+}
+
+.rest {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 10%;
+    top: 400px;
+
+    background: #FFEDA9;
+    opacity: 0.5;
+    border-radius: 46px;
+    background-image: url('../img/rest.png');
+}
+
+.generation {
+
+    position: absolute;
+    width: 385px;
+    height: 176px;
+    left: 15%;
+    top: 60%;
+}
+.save_button {
+    position: absolute;
+    left: 15%;
+    right: 60%;
+    top: 83%;
+    bottom: 12%;
+
+
+    background: #F7A80A;
+    border-radius: 37px;
+}
+
